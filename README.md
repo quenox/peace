@@ -10,8 +10,6 @@
 
 The talk video is available on [YouTube][1].
 
-[![The Annoying Site youtube thumbnail](youtube.jpg)][1]
-
 [1]: https://www.youtube.com/watch?v=QFZ-pwErSl4
 
 ## What is this?
