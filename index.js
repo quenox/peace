@@ -91,7 +91,6 @@ const FILE_DOWNLOADS = [
   'cat-marshmellows.jpg',
   'cat-small-face.jpg',
   'cat-smirk.jpg',
-  'patreon.png'
 ]
 
 const PHRASES = [
