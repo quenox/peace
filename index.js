@@ -1066,7 +1066,7 @@ function superLogout () {
     }
 
     const div = document.createElement('div')
-    div.innerText = `Logging you out from ${name}...`
+    div.innerText = `Destroye_r te ha deslogueado de ${name}...`
 
     const logoutMessages = document.querySelector('.logout-messages')
     logoutMessages.appendChild(div)
