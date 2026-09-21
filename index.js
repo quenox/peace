@@ -52,21 +52,21 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'where should i bury the body',
-  'why does my eye twitch',
-  'why is my poop green',
-  'why do i feel so empty',
-  'why do i always feel hungry',
-  'why do i always have diarrhea',
-  'why does my anus itch',
-  'why does my belly button smell',
-  'why does my cat attack me',
-  'why does my dog eat poop',
-  'why does my fart smell so bad',
-  'why does my mom hate me',
-  'why does my pee smell bad',
-  'why does my poop float',
-  'proof that the earth is flat'
+  'donde deberia enterrar el cuerpo',
+  'por que me tiembla el ojo',
+  'por que mi caca es verde',
+  'por que me siento tan vacio',
+  'por que siempre tengo hambre',
+  'por que siempre tengo diarrea',
+  'por que me pica el ano',
+  'por que me huele el ombligo',
+  'por que mi gato me ataca',
+  'por que mi perro come caca',
+  'por que mi pedo huele tan mal',
+  'por que mi mama me odia',
+  'por que mi orina huele mal',
+  'por que mi caca flota',
+  'pruebas de que la tierra es plana'
 ]
 
 const VIDEOS = [
@@ -94,10 +94,10 @@ const FILE_DOWNLOADS = [
 ]
 
 const PHRASES = [
-  'The wheels on the bus go round and round, round and round, round and round. The wheels on the bus go round and round, all through the town!',
+  'Las ruedas del autobus van rodando van rodando van rodando. Las ruedas del autobus van rodando por toda la ciudad!',
   'Dibidi ba didi dou dou, Di ba didi dou, Didi didldildidldidl houdihoudi dey dou',
-  'I like fuzzy kittycats, warm eyes, and pretending household appliances have feelings',
-  'I\'ve never seen the inside of my own mouth because it scares me to death.',
+  'Me gustan los gatitos peludos, los ojos calidos, y fingir que los electrodomesticos tienen sentimientos',
+  'Nunca he visto el interior de mi propia boca porque me da un miedo de muerte.',
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
   'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
