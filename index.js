@@ -429,7 +429,7 @@ function animateUrlWithEmojis () {
 
       for (i = 0; i < 10; i++) {
         m = Math.floor(e.length * ((Math.sin((Date.now() / 100) + i) + 1) / 2))
-        s += '👶' + e[m]
+        s += '😂' + e[m]
       }
 
       window.location.hash = s
