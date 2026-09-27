@@ -52,18 +52,18 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'donde deberia enterrar el cuerpo',
+  'como hacer hielo paso a paso',
   'por que me tiembla el ojo',
   'por que mi caca es verde',
-  'por que me siento tan vacio',
+  'por que un kg de hierro pesa igual que 1 kg de algodon',
   'por que siempre tengo hambre',
   'por que siempre tengo diarrea',
-  'por que me pica el ano',
+  'por que me pica el trasero',
   'por que me huele el ombligo',
   'por que mi gato me ataca',
   'por que mi perro come caca',
-  'por que mi pedo huele tan mal',
-  'por que mi mama me odia',
+  'por que mis pies huelen tan mal',
+  'por que mi mascota me odia',
   'por que mi orina huele mal',
   'por que mi caca flota',
   'pruebas de que la tierra es plana'
@@ -97,7 +97,7 @@ const PHRASES = [
   'Las ruedas del autobus van rodando van rodando van rodando. Las ruedas del autobus van rodando por toda la ciudad!',
   'Dibidi ba didi dou dou, Di ba didi dou, Didi didldildidldidl houdihoudi dey dou',
   'Me gustan los gatitos peludos, los ojos calidos, y fingir que los electrodomesticos tienen sentimientos',
-  'Nunca he visto el interior de mi propia boca porque me da un miedo de muerte.',
+  'Nunca he visto el interior de mi propia boca porque me da un gran miedo.',
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
   'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
